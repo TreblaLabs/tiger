@@ -1,4 +1,11 @@
-# Tiger
+<!-- PROJECT LOGO -->
+<p align="center">
+  <a href="http://tiger.treblalabs.com">
+    <img src="https://raw.githubusercontent.com/TreblaLabs/tiger/master/assets/img/monochromatic/black/tiger.png" alt="Tiger brand">
+  </a>
+
+  <h3 align="center">Tiger UI Components</h3>
+</p>
 
 The UI components for use in Trebla Labs.
 
