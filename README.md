@@ -7,7 +7,7 @@
   <h3 align="center">Tiger UI Components</h3>
 </p>
 
-The UI components for use in Trebla Labs.
+The website of the Tiger UI Components for Trebla Labs.
 
 See more: http://tiger.treblalabs.com/
 

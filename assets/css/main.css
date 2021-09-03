@@ -1,0 +1,32 @@
+body {
+	background: #212529;
+}
+
+.content {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50%, -50%);
+}
+
+.logo {
+	text-align: center;
+	width: 100%;
+}
+
+.text-align-center {
+	text-align: center;
+}
+
+.copyrights {
+	color: #fff;
+}
+
+.copyrights-link {
+	color: #fff;	
+}
+
+.copyrights-link:hover {
+	color: #fff;	
+}
