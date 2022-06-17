@@ -1,3 +1,1 @@
-import Badge from "./components/badge";
-
-export { Badge };
+export { default as Badge } from "./components/badge";
